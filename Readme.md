@@ -104,7 +104,7 @@ Security_Auditing        ███████░ 20%
 - [Solidity by Example](https://solidity-by-example.org/)
 - [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts)
 - [Chainlink Documentation](https://docs.chain.link/)
-- [Foundry Tutorials](https://Foundry.org/tutorial/)
+- [Foundry Tutorials](https://getfoundry.sh/introduction/overview/)
 - [Cyfrin Updraft Courses](https://updraft.cyfrin.io/courses/)
 
 
