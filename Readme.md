@@ -54,7 +54,7 @@ npm install  # or yarn install
 Blockchain_Fundamentals  ████████████████████████████████████████ 100%
 Solidity_Mastery         █████████████████████████████████████░ 90%
 DeFi_Protocols           ██████████████████░ 50%
-Gas_Optimization         ████████████████░ 60%
+Gas_Optimization         ██████████████████████████░ 60%
 Security_Auditing        ███████░ 20%
 ```
 
