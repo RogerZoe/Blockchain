@@ -56,6 +56,7 @@ Solidity_Mastery         ██████████████████�
 DeFi_Protocols           ██████████████████░ 50%
 Gas_Optimization         ██████████████████████████░ 60%
 Security_Auditing        █████████████████████░ 55%
+Cairo Language           ████████████░ 25%
 ```
 
 
@@ -82,7 +83,8 @@ Security_Auditing        ██████████████████�
 | 🏅 4 | DApps Development Projects | July 2025 |
 | 🎖️ 5 | Foundry Framework Completed | September 2025 |
 | 🏆 6 | Advanced Foundry Techniques Mastered | November 2025 |
-| 🛡️ 7 | Security Audit Course | In Progress |
+| 🛡️ 7 | Security Audit Course | December 2025 |
+| 📚 8 | Cairo Language | In Progress |
 
 </div>
 
@@ -106,6 +108,7 @@ Security_Auditing        ██████████████████�
 - [Chainlink Documentation](https://docs.chain.link/)
 - [Foundry Tutorials](https://getfoundry.sh/introduction/overview/)
 - [Cyfrin Updraft Courses](https://updraft.cyfrin.io/courses/)
+- [Cairo language](https://www.starknet.io/cairo-book/title-page.html)
 
 
 ---
